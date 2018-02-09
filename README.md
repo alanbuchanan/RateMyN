@@ -3,6 +3,14 @@
 
 Share your favourite media and see what people think of it.
 
+### Prerequisites
+
+Install Parcel as a global dependency:
+
+```shell
+npm install -g parcel-bundler
+```
+
 ## Installing / Getting started
 
 All you need to get started is:
@@ -21,10 +29,6 @@ This runs the project using Parcel to bundle everything.
 
 ### Built With
 React, Redux, Parcel, Feathers
-
-### Prerequisites
-None yet
-
 
 <!-- ### Setting up Dev -->
 
