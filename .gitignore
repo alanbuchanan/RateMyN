@@ -61,7 +61,7 @@ typings/
 .next
 
 # Editor
-.idea/
+.idea
 
 # Build
 .cache/
